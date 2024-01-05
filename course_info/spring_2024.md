@@ -47,7 +47,7 @@ Emails may not be responded to.
 
 Course materials are available in [D2L](https://d2l.msu.edu/) under `Content`. Every homework will be released on Monday along with the new lecture notes and due on Saturday at 10pm.
 
-| Week, Date | Topics |  Homework (10pm  at dates) |
+| Week, Date | Topics |  Homework (due 10pm Sat) |
 | ----       | ------- |  ----- | 
 | 1 (Jan 8) | Course Overview, Schemas<br />  and File Formats (HW#1) | HW#0 due Sat. (01-13).<br /> _HW#0 not worth any points._<br /> HW#1 released (01-08)|
 | 2 (Jan 15) | Basic SQL (Create, Insert, Select) (HW#2, HW#3) | HW#1 due Sat. (01-20).<br /> HW#2 released (01-15). |
