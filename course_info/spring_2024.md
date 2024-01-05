@@ -49,22 +49,22 @@ Course materials are available in [D2L](https://d2l.msu.edu/) under `Content`.
 
 | Week, Date | Topics |  Homework (10pm  at dates) |
 | ----       | ------- |  ----- | 
-| 1 (Jan 8) | Course Overview, Schemas<br />  and File Formats | HW#0 due Sat. (01-13).<br /> _HW#0 not worth any points._<br /> HW#1 released (01-13)|
-| 2 (Jan 15) | Basic SQL (Create, Insert, Select) | HW#1 due Sat. (01-20).<br /> HW#2 released (01-20). |
-| 3 (Jan 22) | Filters, Constraints and Joins | HW#2 due Sat. (01-27).<br /> HW#3 released (01-27) | 
-| 4 (Jan 29) | Update, Delete, Union, Dates and Times, <br /> Foreign Keys, and Checks | HW#3 due Sat. (02-03).<br /> HW#4 released (02-03) | 
-| 5 (Feb 05) | Triggers, Views, Indices, Stored Procedures, <br />CASE, Functions, Aggregates, Collations, <br />Adapters and Converters | HW#4 due Sat. (02-10).<br /> HW#5 released (02-10) | 
-| 6 (Feb 12) | Transations and Schedules | HW#5 due Sat. (02-17).<br /> HW#6 released (02-17) | 
-| 7 (Feb 19) | Locks and Rollbacks | HW#6 due Sat. (02-24).<br /> HW#7 released (02-24) | 
+| 1 (Jan 8) | Course Overview, Schemas<br />  and File Formats (HW#1) | HW#0 due Sat. (01-13).<br /> _HW#0 not worth any points._<br /> HW#1 released (01-08)|
+| 2 (Jan 15) | Basic SQL (Create, Insert, Select) (HW#2, HW#3) | HW#1 due Sat. (01-20).<br /> HW#2 released (01-15). |
+| 3 (Jan 22) | Filters, Constraints and Joins (HW#3, HW#4) | HW#2 due Sat. (01-27).<br /> HW#3 released (01-22) | 
+| 4 (Jan 29) | Update, Delete, Union, Dates and Times, <br /> Foreign Keys, and Checks (HW#4) | HW#3 due Sat. (02-03).<br /> HW#4 released (01-29) | 
+| 5 (Feb 05) | Triggers, Views, Indices, Stored Procedures, <br />CASE, Functions, Aggregates, Collations, <br />Adapters and Converters (HW#5) | HW#4 due Sat. (02-10).<br /> HW#5 released (02-05) | 
+| 6 (Feb 12) | Transations and Schedules (HW#6) | HW#5 due Sat. (02-17).<br /> HW#6 released (02-12) | 
+| 7 (Feb 19) | Locks and Rollbacks (HW#7) | HW#6 due Sat. (02-24).<br /> HW#7 released (02-19) | 
 | 8 (Feb 26) | Spring Break [No Class] | No HW Due This Week | 
-| 9 (Mar 04) | Optimistic Scheduling | HW#7 due Sat. (03-09).<br /> HW#8 released (03-09) | 
-| 10 (Mar 11) | Entity-Relationship Diagrams | HW#8 due Sat. (03-16).<br /> HW#9 released (03-16) | 
+| 9 (Mar 04) | Optimistic Scheduling (HW#8) | HW#7 due Sat. (03-09).<br /> HW#8 released (03-04) | 
+| 10 (Mar 11) | Entity-Relationship Diagrams (HW#9) | HW#8 due Sat. (03-16).<br /> HW#9 released (03-11) | 
 | 11 (Mar 18) | Normal Forms (To Appear) | HW#9 due Sat. (03-23). | 
-| 12 (Mar 25) | Exam. | HW#10 released (03-30) | 
-| 13 (Apr 01) | Indices, B+ Trees, Hashtables, and Bitmaps | HW#10 due Sat. (04-06).<br /> HW#11 released (04-06) | 
-| 14 (Apr 08) | Distributed Databases, <br /> Distributed Transactions, and RAID | HW#11 due Sat. (04-13).<br /> HW#12 released (04-13) | 
-| 15 (Apr 15) | NOSQL Overview, MongoDB, <br /> other NoSQL Databases | HW#12 due Sat. (04-20).<br /> HW#13 (BONUS) released (04-20) | 
-| 16 (Apr 22) | Finals Week.<br />(BONUS) Big Data, Hadoop, Security,<br />  and Authorization | HW#13 due Sat. (04-27).<br /> No Final Exam| 
+| 12 (Mar 25) | Exam. |  | 
+| 13 (Apr 01) | Indices, B+ Trees, Hashtables, and Bitmaps (HW#10) |  HW#10 released (04-01) | 
+| 14 (Apr 08) | Distributed Databases, <br /> Distributed Transactions, and RAID (HW#11) | HW#10 due Sat. (04-13).<br /> HW#11 released (04-08) | 
+| 15 (Apr 15) | NOSQL Overview, MongoDB, <br /> other NoSQL Databases (HW#12) <br />(BONUS) Big Data, Hadoop, Security,<br />  and Authorization (HW#13) | HW#11 due Sat. (04-20).<br /> HW#12 and HW#13 (BONUS) released (04-15) | 
+| 16 (Apr 22) | Finals Week. | HW#12 and HW#13 due Sat. (04-27).<br /> No Final Exam| 
 <!-- | 17 (Apr 29) | Finals Week. No Content | HW#13 due Sat. (05-05) |  -->
 
 ## Classroom Platform Access 
