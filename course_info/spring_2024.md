@@ -45,7 +45,7 @@ Emails may not be responded to.
 
 ## Schedule
 
-Course materials are available in [D2L](https://d2l.msu.edu/) under `Content`.
+Course materials are available in [D2L](https://d2l.msu.edu/) under `Content`. Every homework will be released on Monday and due on Saturday at 10pm.
 
 | Week, Date | Topics |  Homework (10pm  at dates) |
 | ----       | ------- |  ----- | 
@@ -118,7 +118,7 @@ There will be at least 13 weekly homeworks (currently through Codio).
 The homeworks are intended to be straightforward if you have viewed the lectures. 
 Only your top 10 homework scores will count toward your final grade; all others 
 will be dropped. The counted scores will each be worth 700 points for a total of 
-70% of your final grade. Homeworks are always due the Thursday after 
+70% of your final grade. Homeworks are always due the Saturday after 
 they are assigned at 10pm. Homework assignments **must** be submitted prior to the 
 deadline to be graded.
 
